@@ -25,7 +25,7 @@ samples, guidance on mobile development, and a full API reference.
 ![Image](https://github.com/user-attachments/assets/f19749d7-b49a-4c67-b774-e1d97fd91a99)
 
 ## Menu
-![Image](https://github.com/user-attachments/assets/bfc176d9-5c6d-4388-b975-9c3bb2809a34)
+![Image](https://github.com/user-attachments/assets/e22bc087-f118-4a0e-92ec-7e25ea2a162f)
 
 ## Profile
 ![Image](https://github.com/user-attachments/assets/5effc440-f47e-4d87-bca2-04a589e16cce)
