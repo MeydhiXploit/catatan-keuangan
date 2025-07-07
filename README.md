@@ -1,6 +1,6 @@
 # financial_records
 
-Aplikasi catatan keungan memudahkan pengguna melakukan catatan setiap pemasukan dan pengeluaran
+Aplikasi catatan keuangan memudahkan pengguna melakukan catatan setiap pemasukan dan pengeluaran
 
 ## Getting Started
 
@@ -14,6 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+### Features :
 
 ## Splash Screen
 ![Image](https://github.com/user-attachments/assets/70f43b5a-6bc2-4bb6-bcad-afc446fd842c)
